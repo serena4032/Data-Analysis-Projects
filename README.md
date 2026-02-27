@@ -9,6 +9,9 @@ In recent years, public discussion has focused on transparency, reporting practi
 
 This analysis is exploratory and does not make legal determinations.
 
+
+
+
 Research Questions
 
 What is the total value of recorded gifts?
@@ -18,6 +21,8 @@ What proportion of high-value gifts have no recorded retention cost?
 Do retention patterns vary across affiliations?
 
 What trends appear in gift types or categories?
+
+
 
 Dataset Description
 The dataset includes structured records of gifts received by public officials, including:
@@ -34,7 +39,11 @@ Year of receipt
 
 Item description
 
+
+
 The dataset does not include contextual diplomatic details, legal rulings, or complete verification of compliance procedures.
+
+
 
 Key Findings
 
@@ -46,6 +55,8 @@ High-value gifts contribute disproportionately to overall variance in the datase
 
 These findings are descriptive and reflect only the available data.
 
+
+
 Limitations
 The dataset may be incomplete or uneven across affiliations.
 
@@ -54,6 +65,8 @@ The dataset may be incomplete or uneven across affiliations.
 Sample sizes differ across categories.
 
 The dataset does not provide full legal or procedural context.
+
+
 
 Future Directions
 Further research could examine:
