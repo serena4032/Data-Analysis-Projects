@@ -10,6 +10,7 @@ In recent years, public discussion has focused on transparency, reporting practi
 This analysis is exploratory and does not make legal determinations.
 
 Research Questions
+
 What is the total value of recorded gifts?
 What proportion of high-value gifts have no recorded retention cost?
 Do retention patterns vary across affiliations?
