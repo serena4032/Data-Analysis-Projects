@@ -3,6 +3,7 @@ Data Analysis Projects
 
 This repository contains a collection of data analysis projects where I explore real-world datasets and apply data cleaning, transformation, exploratory analysis, and visualization techniques. The projects demonstrate my ability to work with raw data and extract meaningful insights using various data analysis tools.
 
+<img width="1600" height="904" alt="dashboard" src="https://github.com/user-attachments/assets/70d77000-f410-4047-8bb4-08e0b4ddf90b" />
 Skills Demonstrated
 
 Data cleaning and preprocessing
